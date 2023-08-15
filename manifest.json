@@ -1,0 +1,18 @@
+{
+  "background_color": "#4b3a3a",
+  "description": "Mi primera pagina web con el profe de paradigmas III",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "ucp-logo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ucp",
+  "start_url": "/",
+  "theme_color": "#da0000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "id": "ucp-facu",
+  "lang": "es"
+}
