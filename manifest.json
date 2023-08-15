@@ -9,9 +9,15 @@
   "short_name": "ucp",
   "start_url": "/",
   "theme_color": "#da0000",
-  "categories": [],
+  "categories": [
+    "education"
+  ],
   "screenshots": [],
-  "icons": [],
+  "icons": [{
+    "src": "hjj.png",
+    "sizes": "48x48",
+    "type": "image/webp"
+  }],
   "shortcuts": [],
   "id": "ucp-facu",
   "lang": "es"
